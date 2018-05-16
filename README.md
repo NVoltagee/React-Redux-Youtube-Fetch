@@ -1,2 +1,2 @@
 # React-Redux-Youtube-Fetch
-Repository for Stephen Grider Modern React with Redux
+Repository for Stephen Grider Modern React with Redux course on Udemy
