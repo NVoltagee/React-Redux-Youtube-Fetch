@@ -2,10 +2,5 @@ node_modules
 bundle.js
 npm-debug.log
 .DS_Store
-index.html
-.babelrc
 LICENSE.MD
-package.json
-webpack.config.js
 package-lock.json
-style
