@@ -17,7 +17,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch("Official Overwatch Highlights");
+    this.videoSearch("Movieclips Coming Soon");
   }
 
   videoSearch(term) {
